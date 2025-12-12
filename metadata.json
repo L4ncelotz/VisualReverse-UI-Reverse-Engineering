@@ -1,0 +1,5 @@
+{
+  "name": "Visual UI Reverse Engineer",
+  "description": "Expert UI/UX reverse engineering tool. Generates React code with strict accessibility (ARIA live regions, focus management) and responsiveness.",
+  "requestFramePermissions": []
+}
