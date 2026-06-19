@@ -18,3 +18,18 @@ View your app in AI Studio: https://ai.studio/apps/drive/1M8urSFz0mfFfGFKjUFufi_
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Problem
+Converting UI screenshots into frontend code is repetitive and slow.
+
+## Solution
+This app uses Gemini to analyze screenshots and generate React components.
+
+## Features
+- Upload screenshot
+- Generate React component structure
+- Preview converted UI
+- Export code
+
+## Tech Stack
+React · TypeScript · Gemini API · Vite
